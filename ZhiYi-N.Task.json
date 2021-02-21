@@ -1,0 +1,13 @@
+{
+  "name": "ZhiYi-N task",
+  "description": "ZhiYi-Task",
+  "task": [
+"5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/jrtt.png, enabled=true
+",
+" 5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/dyjsb.png, enabled=true",
+" 0 */30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon.js, tag=火山视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png, enabled=true",
+" */5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://gitee.com/ydj0602/hym/raw/img/DYHSB.PNG, enabled=true",
+" 1,30 10-20 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/ranlv.js, tag=燃旅视频, img-url=https://raw.githubusercontent.com/Se7eNcBoT/MyXP/master/Icons/ZhiYi/ranlv_144x.png, enabled=true",
+" 0 */20 * * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
+]
+}
